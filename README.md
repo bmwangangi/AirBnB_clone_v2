@@ -1,1 +1,1 @@
-2nd part  mysql airbnb
+nd part  mysql airbnb
